@@ -1,0 +1,23 @@
+{
+  "name": "lcx",
+  "version": "1.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-eff": "^0.1.2",
+    "purescript-strings": "^0.7.1",
+    "purescript-maybe": "^0.3.5",
+    "purescript-lists": "^0.7.10",
+    "purescript-generics": "^0.7.2"
+  },
+  "devDependencies": {
+    "purescript-assert": "^0.1.1"
+  }
+}
